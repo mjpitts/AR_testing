@@ -18,6 +18,6 @@ Unity AR Dev Set-up Guide:
 https://learn.unity.com/tutorial/configure-your-ar-development-environment?uv=2021.3&projectId=633b041bedbc2a6de5496294#633c1923edbc2a1c0a7090d4
 
 Step 1.2:
- 
+ WAs Not able to deploy to IOS because of Xcode Version I am at a standstill.
 
 
