@@ -14,6 +14,9 @@ Step 1.1:
 * Download xcode on Mac, Because I am using a Macbook Pro(2016) I can not use Xcode13 and will have to use a outdated version. (This may cause future errors).
 * Set up unity enviroment for target device, in this case, Apple. 
 
+Unity AR Dev Set-up Guide:
+https://learn.unity.com/tutorial/configure-your-ar-development-environment?uv=2021.3&projectId=633b041bedbc2a6de5496294#633c1923edbc2a1c0a7090d4
+
 Step 1.2:
  
 
